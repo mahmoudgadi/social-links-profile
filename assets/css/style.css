@@ -1,0 +1,23 @@
+:root {
+  --black: #141414;
+  --dark-grey: #1f1f1f;
+  --grey: #333;
+  --white: #fff;
+  --neon-green: #c4f82a;
+}
+body {
+  width: 90svw;
+  height: 90svh;
+  background: var(--black);
+  color: var(--white);
+}
+
+/* --- FOOTER --- */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  margin-bottom: 12px;
+}
